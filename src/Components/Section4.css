@@ -1,0 +1,24 @@
+.section4-img{
+    width: auto;
+}
+.section4-content{
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: 130px;
+    margin-right: 130px;
+    font-family: 'Jost', sans-serif;
+    letter-spacing: 2px;
+    line-height: 30px;
+    color: gray;
+    font-size: 14px
+}
+
+@media(max-width: 800px){
+    .section4-img{
+        width: 100%;
+        height: 300px;
+    }
+    .section4-content{
+        margin: 40px 25px 40px 25px;
+    }
+}
