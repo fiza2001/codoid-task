@@ -1,0 +1,24 @@
+.italy-img{
+    width: 100%;
+}
+.italy-content{
+    margin-top: 80px;
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-bottom: 80px;
+    font-family: 'Jost', sans-serif;
+    letter-spacing: 2px;
+    line-height: 30px;
+    color: gray;
+    font-size: 14px
+}
+
+@media(max-width: 800px){
+    .italy-content{
+        margin: 30px;
+        font-size: 14px;
+    }
+    .italy-img{
+        height: 250px;
+    }
+}
