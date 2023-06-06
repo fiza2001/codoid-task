@@ -1,0 +1,36 @@
+.social-links{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 0px;
+    gap: 20px;
+    list-style-type: none;
+}
+.section1-main{
+    font-family: 'Jost', sans-serif;
+    font-size: 14px;
+    display: flex;
+    gap: 80px;
+    margin: 100px;
+    letter-spacing: 2px;
+    line-height: 30px;
+    color: grey;
+}
+.mui{
+    color: black;
+}
+.mui :hover{
+    color: orangered;
+}
+.section1-img{
+    width: 400px;
+    height: 450px;
+}
+@media (max-width: 900px){
+    .section1-main{
+        display: block;
+        margin: 60px;
+    }
+    .social-links{
+        padding-bottom: 40px;
+    }
+}

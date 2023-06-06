@@ -1,8 +1,7 @@
-body{
-    background-image: url("https://images.squarespace-cdn.com/content/v1/53172b1be4b0cc8a5401db4a/1564523099100-9MPVY26S7NP0LQP96ESV/IMG_1370.jpg?format=1500w");
-    height: auto;
+.background-main{
+  background-image: url("https://images.squarespace-cdn.com/content/v1/53172b1be4b0cc8a5401db4a/1564523099100-9MPVY26S7NP0LQP96ESV/IMG_1370.jpg?format=1500w");
+  height: 600px;
 }
-
 .header {
     display: flex;
     justify-content: space-between;
