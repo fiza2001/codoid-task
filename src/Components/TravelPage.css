@@ -1,0 +1,40 @@
+
+    /* font-family: 'Jost', sans-serif;
+    letter-spacing: 2px;
+    line-height: 30px; */
+.travel-main-img{
+    width: 100%;
+    height: 500px;
+}
+.travel-para{
+    margin: 70px 200px 70px 200px;
+    font-family: "jost", sans-serif;
+    letter-spacing: 2px;
+    line-height: 30px;
+}
+.flex-align{
+    margin: 80px 150px 80px 150px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.travel-flex{
+    text-align: center;
+    font-family: 'Jost', sans-serif;
+    font-size: 12px;
+    width: 200px;
+}
+.travel-list-img{
+    width: 200px;
+    height: 150px;
+}
+
+@media(max-width: 800px){
+    .travel-para{
+        margin: 50px 30px 50px 30px;
+    }
+    .flex-align{
+        margin: 50px 20px 50px 20px;
+    }
+}

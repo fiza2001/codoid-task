@@ -17,19 +17,19 @@ export default function Section1(params) {
           journals wed wanderlust and practical advice to help and inspire
           curious travellers like you to make the most of your own slow,
           sustainable adventures.
-        </p>
-        <h3>WE WANT TO HELP YOU TO TRAVEL MORE, TRAVEL BETTER.</h3>
+          </p>
+          <h3 className="section1-h3">WE WANT TO HELP YOU TO TRAVEL MORE, TRAVEL BETTER.</h3>
         <div className="social-links">
-        <a className="mui" href="@">
+        <a className="mui" href="https://www.instagram.com/">
               <InstagramIcon />
             </a>
-            <a className="mui" href="@">
+            <a className="mui" href="https://www.facebook.com/facebook/">
               <FacebookIcon />
             </a>
-            <a className="mui" href="@">
+            <a className="mui" href="https://twitter.com/i/flow/login">
               <TwitterIcon />
             </a>
-            <a className="mui" href="@">
+            <a className="mui" href="https://www.youtube.com/">
               <YouTubeIcon />
             </a>
 

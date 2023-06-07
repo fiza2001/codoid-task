@@ -12,26 +12,26 @@ const Header = () => {
     <div className="background-main">
     <div className="header">
         <div className="logo-container">
-          <Link to="/"><h2>ALONG DUSTY ROADS</h2></Link>
+          <Link className="main-title" to="/"><h2>ALONG DUSTY ROADS</h2></Link>
           
         </div>
       <div className="logo-nav">
         
         <ul className={click ? "nav-options active" : "nav-options"}>
           <li className="option" onClick={closeMobileMenu}>
-            <Link to="/"><button className="nav-btn">HOME</button></Link>
+            <Link className="route-link" to="/"><button className="nav-btn">HOME</button></Link>
             
           </li>
           <li className="option" onClick={closeMobileMenu}>
-            <Link to="About"> <button className="nav-btn">ABOUT US</button></Link>
+            <Link className="route-link" to="/About"> <button className="nav-btn">ABOUT US</button></Link>
            
           </li>
           <li className="option" onClick={closeMobileMenu}>
-            <Link to="Blog"><button className="nav-btn">BLOG</button></Link>
+            <Link className="route-link" to="/Blog"><button className="nav-btn">BLOG</button></Link>
             
           </li>
           <li className="option" onClick={closeMobileMenu}>
-            <Link to="Travel"><button className="nav-btn">TRAVEL RESOURCES</button></Link>
+            <Link className="route-link" to="/Travel"><button className="nav-btn">TRAVEL RESOURCES</button></Link>
             
           </li>
         </ul>

@@ -12,12 +12,12 @@ export default function Footer() {
             <h2>ALONG DUSTY ROADS</h2>
             <p>Along Dusty Roads is a travel blog by British couple, Andrew & Emily. </p>
             <p>It promotes sustainable and responsible travel for the curious modern day explorer.</p>
-            <p>· buy us a coffee ·</p>
+            <p>· buy us a coffee ·</p><br />
             <div >
-                <a className="footer-social-links" href="@"><InstagramIcon/></a>
-                <a className="footer-social-links" href="@"><FacebookIcon/></a>
-                <a className="footer-social-links" href="@"><TwitterIcon/></a>
-                <a className="footer-social-links" href="@"><YouTubeIcon/></a>
+                <a className="footer-social-links" href="https://www.instagram.com/"><InstagramIcon/></a>
+                <a className="footer-social-links" href="https://www.facebook.com/facebook/"><FacebookIcon/></a>
+                <a className="footer-social-links" href="https://twitter.com/i/flow/login"><TwitterIcon/></a>
+                <a className="footer-social-links" href="https://www.youtube.com/"><YouTubeIcon/></a>
             </div>
             
             </div>

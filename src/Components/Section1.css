@@ -5,9 +5,13 @@
     gap: 20px;
     list-style-type: none;
 }
+.section1-h3{
+    text-align: left;
+}
 .section1-main{
-    font-family: 'Jost', sans-serif;
+    
     font-size: 14px;
+    font-family: 'Barlow', sans-serif;
     display: flex;
     gap: 80px;
     margin: 100px;
@@ -24,13 +28,19 @@
 .section1-img{
     width: 400px;
     height: 450px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
 }
 @media (max-width: 900px){
     .section1-main{
         display: block;
         margin: 60px;
+        text-align: center;
     }
     .social-links{
         padding-bottom: 40px;
+        justify-content: center;
+    }
+    .section1-h3{
+        text-align: center;
     }
 }
