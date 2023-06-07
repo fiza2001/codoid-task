@@ -1,0 +1,24 @@
+.footer-main{
+    margin: 0;
+    background-color: lavender;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.footer-content{
+    text-align: center;
+    margin: 50px 200px 50px 200px;
+}
+.footer-social-links{
+    color: black;
+    padding: 10px;
+}
+.footer-social-links :hover{
+    color: orangered;
+}
+
+@media(max-width: 800px){
+    .footer-content{
+        margin: 25px 50px 25px 50px;
+    }
+}

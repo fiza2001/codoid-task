@@ -4,6 +4,7 @@ import Section1 from "./Components/Section1.js"
 import Section2 from "./Components/Section2.js"
 import Section3 from "./Components/Section3.js"
 import Section4 from "./Components/Section4.js"
+import Footer from "./Components/Footer.js"
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Section2 />
       <Section3 />
       <Section4 />
+      <Footer />
     </div>
   );
 }
