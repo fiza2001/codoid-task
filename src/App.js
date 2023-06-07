@@ -1,20 +1,25 @@
-import './App.css';
-import Header from "./Components/Header.js"
-import Section1 from "./Components/Section1.js"
-import Section2 from "./Components/Section2.js"
-import Section3 from "./Components/Section3.js"
-import Section4 from "./Components/Section4.js"
-import Footer from "./Components/Footer.js"
+import "./App.css";
+import { Routes, Route } from "react-router-dom"
+
+import HomePage from "./Components/HomePage.js";
+import AboutPage from "./Components/AboutPage";
+import BlogPage from "./Components/BlogPage.js";
+import TravelPage from "./Components/TravelPage.js";
 
 function App() {
   return (
     <div className="App">
-      <Header />
-      <Section1 />
-      <Section2 />
-      <Section3 />
-      <Section4 />
-      <Footer />
+      
+      
+      <Routes>
+        <Route index path="/" element={<HomePage />} />
+        <Route path="About" element={<AboutPage />} />
+        <Route path="Blog" element={<BlogPage />} />
+        <Route path="Travel" element={<TravelPage />} />
+      </Routes>
+    
+     
+      
     </div>
   );
 }
