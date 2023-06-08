@@ -1,6 +1,5 @@
 .background-main{
   box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
-  border-bottom: 1px solid grey;
 }
 .header {
     display: flex;
@@ -34,6 +33,12 @@
     gap: 40px;
     list-style-type: none;
     
+  }
+  .nav-options :hover{
+    color: orangered;
+  }
+  .nav-options :active{
+    color: orangered;
   }
 
   .nav-btn{

@@ -1,5 +1,6 @@
 .footer-main{
     margin: 0;
+    color: gray;
     font-family: "Barlow", sans-serif;
     letter-spacing: 1px;
     line-height: 25px;
@@ -7,6 +8,9 @@
     padding-top: 40px;
     padding-bottom: 10px;
     text-align: center;
+}
+.footer-head{
+    color: black;
 }
 .footer-content{
     text-align: center;

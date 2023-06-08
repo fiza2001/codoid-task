@@ -1,28 +1,35 @@
+.blog-bg{
+    background: url("./blog-bg2.jpg");
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
 .blogcard-main{
     margin: 70px 200px 70px 200px;
+    display: flex;
+    flex-wrap: wrap;
+    
 }
 .card-title{
     font-family: 'Jost', sans-serif;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     font-weight: bold;
     margin-top: 40px;
 }
 .card-img{
     margin: 20px;
-    width: 200px;
-    height: 200px;
-    border-radius: 10px;
+   width: auto;
+   height: auto;
 }
 .card-content{
     font-family: 'Jost', sans-serif;
-    letter-spacing: 2px;
-    line-height: 30px;
+    letter-spacing: 1px;
+    line-height: 20px;
     text-align: justify;
     margin-right: 50px;
 }
 .card1{
     box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
-    background-color: lavender;
+    background-color: white;
     border-radius: 10px;
     display: flex;
     gap: 30px;
@@ -31,20 +38,27 @@
 .a-link{
     text-decoration: none;
     color: black;
-    
+    display: flex;
+    flex-wrap: wrap;
 }
 .h2-title{
     text-align: center;
+    color: white;
+    font-family: "Barlow", sans-serif;
+    letter-spacing: 3px;
+    font-size: 30px;
 }
 
 
-@media(max-width: 800px){
+@media(max-width: 1000px){
     .blogcard-main{
         margin: 40px 40px 40px 40px;
     }
     .card1{
-        flex-wrap: wrap;
+        text-align: center;
+        display: block;
         justify-content: center;
+        margin: 20px;
     }
     .card-title{
         text-align: center;
@@ -60,5 +74,8 @@
     .card-content{
         text-align: justify;
         margin-left: 50px;
+    }
+    .h2-title{
+        font-size: 20px;
     }
 }

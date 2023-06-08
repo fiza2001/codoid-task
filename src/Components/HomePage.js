@@ -12,6 +12,7 @@ export default function HomePage() {
         <Layout>
       
       <div>
+        <h3 className="home-header">TO TRAVEL<br/> IS<br/> TO LIVE</h3>
           <img className="home-title-img" src={require("./home-title-img.jpg")} alt="" />
         </div>
       <Section1 />

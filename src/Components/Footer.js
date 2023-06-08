@@ -9,7 +9,7 @@ export default function Footer() {
     return(
         <div className="footer-main">
             <div className="footer-content">
-            <h2>ALONG DUSTY ROADS</h2>
+            <h2 className="footer-head">ALONG DUSTY ROADS</h2>
             <p>Along Dusty Roads is a travel blog by British couple, Andrew & Emily. </p>
             <p>It promotes sustainable and responsible travel for the curious modern day explorer.</p>
             <p>· buy us a coffee ·</p><br />
