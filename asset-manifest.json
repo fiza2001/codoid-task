@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/codoid-task/static/css/main.998d8538.css",
+    "main.js": "/codoid-task/static/js/main.a1424130.js",
+    "static/js/787.6fb10562.chunk.js": "/codoid-task/static/js/787.6fb10562.chunk.js",
+    "static/media/about1.jpg": "/codoid-task/static/media/about1.ae29b233c2921a94ea6d.jpg",
+    "static/media/home-title-img.jpg": "/codoid-task/static/media/home-title-img.910b882cf638183f82a8.jpg",
+    "static/media/blog-bg2.jpg": "/codoid-task/static/media/blog-bg2.f62937ab7e0a992d5bf8.jpg",
+    "static/media/travel-main.jpg": "/codoid-task/static/media/travel-main.cea6cfe70908fae60235.jpg",
+    "static/media/poster1.PNG": "/codoid-task/static/media/poster1.8ca5a7364ddceb5f489c.PNG",
+    "static/media/poster2.PNG": "/codoid-task/static/media/poster2.3288c8a4fdd4d24bc78c.PNG",
+    "static/media/cinque.jpg": "/codoid-task/static/media/cinque.2d4baa98b55924bd2883.jpg",
+    "static/media/sicily.jpg": "/codoid-task/static/media/sicily.c15150729256180311ad.jpg",
+    "static/media/venice.jpg": "/codoid-task/static/media/venice.1ec462af001b068a814c.jpg",
+    "static/media/travel4.jpg": "/codoid-task/static/media/travel4.75782592e2bbcef3c745.jpg",
+    "static/media/card6.jpg": "/codoid-task/static/media/card6.dfd8a74bf19f3c280cb7.jpg",
+    "static/media/travel2.jpg": "/codoid-task/static/media/travel2.465a6b184568926e03c2.jpg",
+    "static/media/travel1.jpg": "/codoid-task/static/media/travel1.f5fb7ec28523a73d88e3.jpg",
+    "static/media/card4.jpg": "/codoid-task/static/media/card4.15b82225cbf53af2c794.jpg",
+    "static/media/travel12.jpg": "/codoid-task/static/media/travel12.bdaa228dff6977b2789c.jpg",
+    "static/media/card5.jpg": "/codoid-task/static/media/card5.0d8549a7480ccd46fb33.jpg",
+    "static/media/card3.jpg": "/codoid-task/static/media/card3.f7947d59503a6429b776.jpg",
+    "static/media/card1.jpg": "/codoid-task/static/media/card1.cd649dfd13958d6d5bb3.jpg",
+    "static/media/travel7.jpg": "/codoid-task/static/media/travel7.d6ae590649c75f326d37.jpg",
+    "static/media/card2.jpg": "/codoid-task/static/media/card2.5a70aba411a24d5a915f.jpg",
+    "static/media/travel11.jpg": "/codoid-task/static/media/travel11.cb421f2c9a72c6e8cd9c.jpg",
+    "static/media/travel8.jpg": "/codoid-task/static/media/travel8.c6c27b5547dea7502c56.jpg",
+    "static/media/travel5.jpg": "/codoid-task/static/media/travel5.d6cf9f05c54cb119c661.jpg",
+    "static/media/travel3.jpg": "/codoid-task/static/media/travel3.6da39141d0da795de5db.jpg",
+    "static/media/travel9.jpg": "/codoid-task/static/media/travel9.57992653671a28b86d0c.jpg",
+    "static/media/travel6.jpg": "/codoid-task/static/media/travel6.d724874f85264e3a0dac.jpg",
+    "index.html": "/codoid-task/index.html",
+    "static/media/x.svg": "/codoid-task/static/media/x.ba58a0944c3a20dee81a2123c46d3053.svg",
+    "static/media/menu.svg": "/codoid-task/static/media/menu.f99b5ed36a149e3d1cf17f9f2ee3b77c.svg",
+    "main.998d8538.css.map": "/codoid-task/static/css/main.998d8538.css.map",
+    "main.a1424130.js.map": "/codoid-task/static/js/main.a1424130.js.map",
+    "787.6fb10562.chunk.js.map": "/codoid-task/static/js/787.6fb10562.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.998d8538.css",
+    "static/js/main.a1424130.js"
+  ]
+}
